@@ -8,6 +8,6 @@ C# Programming Chapter 7
 - [X] 03 – PaintingEstimate
 - [X] 04 - ConvertQuartsToLiters
 - [X] 06 - Multiplication
-- [ ] 07 - AdmissionModularized
+- [X] 07 - AdmissionModularized
 - [ ] 08 - CountVowelsModularized
 - [ ] 09 - Desks
