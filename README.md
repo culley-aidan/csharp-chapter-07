@@ -9,5 +9,5 @@ C# Programming Chapter 7
 - [X] 04 - ConvertQuartsToLiters
 - [X] 06 - Multiplication
 - [X] 07 - AdmissionModularized
-- [ ] 08 - CountVowelsModularized
+- [X] 08 - CountVowelsModularized
 - [ ] 09 - Desks
