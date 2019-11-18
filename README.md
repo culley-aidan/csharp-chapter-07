@@ -7,7 +7,7 @@ C# Programming Chapter 7
 - [ ] 02 – ~~SalesLetter~~
 - [X] 03 – PaintingEstimate
 - [X] 04 - ConvertQuartsToLiters
-- [ ] 06 - Multiplication
+- [X] 06 - Multiplication
 - [ ] 07 - AdmissionModularized
 - [ ] 08 - CountVowelsModularized
 - [ ] 09 - Desks
