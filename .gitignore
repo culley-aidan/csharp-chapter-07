@@ -9,3 +9,10 @@ DemoLogo/.vs/DemoLogo/v16/.suo
 *.props
 *.targets
 DemoLogo/DemoLogo/obj/Debug/netcoreapp3.0/DemoLogo.AssemblyInfo.cs
+DemoLogo/.vs/DemoLogo/DesignTimeBuild/.dtbcache
+PhoneCall/.vs/PhoneCall/v16/.suo
+*.dll
+*.exe
+*.pdb
+PhoneCall/PhoneCall/obj/Debug/netcoreapp3.0/PhoneCall.csproj.FileListAbsolute.txt
+PhoneCall/PhoneCall/obj/Debug/netcoreapp3.0/PhoneCall.AssemblyInfo.cs
