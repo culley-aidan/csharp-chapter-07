@@ -1,2 +1,13 @@
 # csharp-chapter-07
 C# Programming Chapter 7
+
+## TODO
+- [ ] Guided - DemoLogo
+- [ ] Guided - PhoneCall
+- [ ] 02 – SalesLetter
+- [ ] 03 – PaintingEstimate
+- [ ] 04 - ConvertQuartsToLiters
+- [ ] 06 - Multiplication
+- [ ] 07 - AdmissionModularized
+- [ ] 08 - CountVowelsModularized
+- [ ] 09 - Desks
