@@ -10,4 +10,4 @@ C# Programming Chapter 7
 - [X] 06 - Multiplication
 - [X] 07 - AdmissionModularized
 - [X] 08 - CountVowelsModularized
-- [ ] 09 - Desks
+- [X] 09 - Desks
