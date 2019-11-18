@@ -6,7 +6,7 @@ C# Programming Chapter 7
 - [X] Guided - PhoneCall
 - [ ] 02 – ~~SalesLetter~~
 - [X] 03 – PaintingEstimate
-- [ ] 04 - ConvertQuartsToLiters
+- [X] 04 - ConvertQuartsToLiters
 - [ ] 06 - Multiplication
 - [ ] 07 - AdmissionModularized
 - [ ] 08 - CountVowelsModularized

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertQuartsToLiters", "ConvertQuartsToLiters\ConvertQuartsToLiters.csproj", "{ABB1E2ED-ABC9-4B66-B967-C3FFB31A33BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB1E2ED-ABC9-4B66-B967-C3FFB31A33BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB1E2ED-ABC9-4B66-B967-C3FFB31A33BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB1E2ED-ABC9-4B66-B967-C3FFB31A33BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB1E2ED-ABC9-4B66-B967-C3FFB31A33BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEFD526B-CF1B-477B-8CEA-01008F53D69F}
+	EndGlobalSection
+EndGlobal
