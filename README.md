@@ -3,7 +3,7 @@ C# Programming Chapter 7
 
 ## TODO
 - [X] Guided - DemoLogo
-- [ ] Guided - PhoneCall
+- [X] Guided - PhoneCall
 - [ ] 02 – SalesLetter
 - [ ] 03 – PaintingEstimate
 - [ ] 04 - ConvertQuartsToLiters
