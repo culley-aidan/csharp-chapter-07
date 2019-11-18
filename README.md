@@ -5,7 +5,7 @@ C# Programming Chapter 7
 - [X] Guided - DemoLogo
 - [X] Guided - PhoneCall
 - [ ] 02 – ~~SalesLetter~~
-- [ ] 03 – PaintingEstimate
+- [X] 03 – PaintingEstimate
 - [ ] 04 - ConvertQuartsToLiters
 - [ ] 06 - Multiplication
 - [ ] 07 - AdmissionModularized
