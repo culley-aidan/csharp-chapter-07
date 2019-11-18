@@ -1,0 +1,11 @@
+
+DemoLogo/.vs/DemoLogo/v16/.suo
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+*.cache
+*.json
+*.props
+*.targets
+DemoLogo/DemoLogo/obj/Debug/netcoreapp3.0/DemoLogo.AssemblyInfo.cs

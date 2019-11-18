@@ -2,7 +2,7 @@
 C# Programming Chapter 7
 
 ## TODO
-- [ ] Guided - DemoLogo
+- [X] Guided - DemoLogo
 - [ ] Guided - PhoneCall
 - [ ] 02 – SalesLetter
 - [ ] 03 – PaintingEstimate
